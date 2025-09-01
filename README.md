@@ -7,7 +7,7 @@ Provides syntax highlighting and language server integration for Solidity, inclu
 - Tree Sitter: [tree-sitter-solidity](https://github.com/JoranHonig/tree-sitter-solidity)
 - Language Server: [@nomicfoundation/solidity-language-server](https://github.com/NomicFoundation/hardhat-vscode/tree/main/server)
 
-## 🛠️ Development Setup
+## Development Setup
 
 ### 1. Clone the repository
 
@@ -32,7 +32,7 @@ As you make changes to the extension, you may need to rebuild it. To do so:
 - Open `zed: extensions`.
 - Click the `Rebuild` button next to the extension.
 
-## 🎸 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -48,16 +48,16 @@ Check open issues for areas needing improvement. Thanks for helping improve Soli
   <img alt="contrib.rocks" src="https://contrib.rocks/image?repo=czepluch/zed-solidity" />
 </a>
 
-## 🏆 Acknowledgments
+## Acknowledgments
 
 - [@JoranHonig](https://github.com/JoranHonig) for providing the [tree-sitter-solidity](https://github.com/JoranHonig/tree-sitter-solidity) repository.
-- [@meetmangukiya](https://github.com/meetmangukiya) and [@tomholford](https://github.com/tomholford) for inspiration with their PRs to the main Zed repo.
+- [Daniel Zarifpour](https://zarifpour.xyz) for doing the initial work.
 
 ---
 
 <div align=center>
 
-**Community-maintained by Jacob Czepluch**
+**Community-maintained by [Jacob Czepluch](https://github.com/czepluch)**
 
 *Originally created with 🩵 by [Daniel Zarifpour](https://zarifpour.xyz)*
 
