@@ -8,10 +8,10 @@ repository = "https://github.com/zarifpour/zed-solidity"
 
 languages = ["solidity"]
 
-[language_servers.solidity]
+[language_servers.solidity-language-server]
 name = "Solidity Language Server"
-languages = ["Solidity"]
-language_ids = { "Solidity" = "solidity" }
+languages = ["solidity"]
+language_ids = { "solidity" = "solidity" }
 
 [grammars.solidity]
 repository = "https://github.com/JoranHonig/tree-sitter-solidity"
